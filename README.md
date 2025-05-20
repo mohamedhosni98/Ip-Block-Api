@@ -12,7 +12,7 @@ A .NET Core Web API project to manage blocked countries and validate IP addresse
 -  Lookup country by IP address
 -  Automatically block IPs from blocked countries
 -  Log failed access attempts (country is blocked)
-- ⏱ Temporarily block a country for a specific duration
+-  Temporarily block a country for a specific duration
 -  Background service to clear expired blocks
 -  Swagger API documentation
 
