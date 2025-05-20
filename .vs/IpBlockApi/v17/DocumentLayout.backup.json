@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\my ptoject\\IpBlockApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{670FED47-B194-4EFC-82B6-057A0CB0FD51}|IpBlockApi\\IpBlockApi.csproj|e:\\my ptoject\\ipblockapi\\ipblockapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{670FED47-B194-4EFC-82B6-057A0CB0FD51}|IpBlockApi\\IpBlockApi.csproj|solutionrelative:ipblockapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "E:\\my ptoject\\IpBlockApi\\IpBlockApi\\README.md",
+              "RelativeDocumentMoniker": "IpBlockApi\\README.md",
+              "ToolTip": "E:\\my ptoject\\IpBlockApi\\IpBlockApi\\README.md",
+              "RelativeToolTip": "IpBlockApi\\README.md",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-20T15:10:14.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

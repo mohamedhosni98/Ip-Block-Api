@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Ll+bMmY+OpzMDeSLSj/3sNMNkkRKY5GJ76C0Lr8zw4A=",
+  "Source": "IpBlockApi",
+  "BasePath": "_content/IpBlockApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
